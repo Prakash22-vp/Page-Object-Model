@@ -14,3 +14,16 @@ export const lockedUser={
 
    password: "secret_sauce"
 }
+
+
+export const adminUser={
+
+    username: "admin_user",
+
+    password: "admin123"
+}
+
+export const problemUser = {
+    username: "problem_user",
+    password: "secret_sauce"
+};
